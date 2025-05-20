@@ -6,12 +6,12 @@ Welcome to my portfolio of 3D design projects! This collection showcases various
 
 ## Projects
 
-Below you will find a selection of my work.
+Below you will find a selection of my work in progress.
 
 ---
 
 ### Design 4
-!Design 4(./CATIA/Lab 1/Design 4.tif)
+![Design 4](./CATIA/Lab 1/Design 4.tif)
 
 *Software Used:* CATIA V5
 
