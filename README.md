@@ -10,10 +10,10 @@ Below you will find a selection of my work.
 
 ---
 
-### [Project Name 1]
-![Project Name 1](./images/Project_Name_1.png)
+### Design 4
+!Design 4(./CATIA/Lab 1/Design 4.tif)
 
-*Software Used:* CATIA V5 / SolidWorks 20XX (Specify version)
+*Software Used:* CATIA V5
 
 ---
 
