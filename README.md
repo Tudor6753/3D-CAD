@@ -11,7 +11,7 @@ Below you will find a selection of my work in progress.
 ---
 
 ### Design 4
-![Design 4](CATIA/Lab 1/Design 4.png)
+![Design 4](CATIA/PAC/Lab%201/Design%204.tif)
 
 *Software Used:* CATIA V5
 
