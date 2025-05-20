@@ -25,7 +25,7 @@ Below you will find a selection of my work in progress.
 ---
 
 ### Design 2
-![](images\Design 2.png)
+![](images\Design%202.png)
 
 *Software Used:* CATIA V5
 
